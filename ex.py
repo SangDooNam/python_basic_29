@@ -17,5 +17,3 @@ print(is_pangram(text.lower()))
 
 
 
-
-
